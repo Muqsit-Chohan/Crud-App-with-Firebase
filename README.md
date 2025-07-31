@@ -13,10 +13,10 @@ A responsive web dashboard built with vanilla JavaScript, Firebase Authenticatio
 # 📊 Dashboard Preview
 After successful login, users are redirected to a dashboard where they can:
 
-➕ Add New User Data
-📝 Edit Existing Records
-❌ Delete Records
-🔍 View all entries in a responsive table
+- ➕ Add New User Data
+- 📝 Edit Existing Records
+- ❌ Delete Records
+- 🔍 View all entries in a responsive table
 
 # 🔧 Technologies Used
 
