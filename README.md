@@ -1,4 +1,4 @@
-# 🔐 Firebase Auth + Firestore User Dashboard
+# 🔐 Firebase Auth + Firestore User Dashboard Crud Application 
 
 A responsive web dashboard built with vanilla JavaScript, Firebase Authentication, Firestore, and SweetAlert2. The app allows users to sign up, log in, and manage user records (CRUD operations) in real-time.
 
