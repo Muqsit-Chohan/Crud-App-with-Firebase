@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sign In</title>
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+
+  <body>
+    <!-- Name: Abdul Muqsit Chohan
+        ID: WMA-342415 -->
+
+    <div class="main">
+      <!-- Form -->
+      <div class="container-1">
+        <form>
+          <h1>Login</h1>
+          <div class="email">
+            <label for="email">Email</label><br />
+            <input
+              type="email"
+              id="lemail"
+              placeholder="Enter your Email"
+              required
+            />
+          </div>
+          <div class="password">
+            <label for="password">Password</label><br />
+            <input
+              type="password"
+              id="lpass"
+              placeholder="Password..."
+              required
+              minlength="8"
+            />
+          </div>
+          <button id="lbtn" class="signUp">Sign Up</button>
+
+          <div class="or">
+            <p>OR</p>
+          </div>
+
+          <div class="signIn">
+            <a href="./index.html"> Creat Account</a>
+          </div>
+        </form>
+      </div>
+      <!-- image -->
+      <div class="container-2">
+        <img src="./job.jpg" width="100%" alt="" />
+      </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
+    <script type="module" src="app.js"></script>
+  </body>
+</html>
